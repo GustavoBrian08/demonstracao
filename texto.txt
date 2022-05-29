@@ -1,1 +1,2 @@
-Gustavo Brian
+nome: Gustavo Brian
+atualmente estudante de informática
